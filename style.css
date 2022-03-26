@@ -7,7 +7,7 @@ img {
 /* add code here to change the color and font family of your band's name/title */
 
 h1 {
-  color:blue
+  color:orange
   
  } 
 
@@ -16,11 +16,11 @@ h1 {
 }
 
 li {
-  color:red
+  color:white
 }
 
-.background-grey{
-  color :grey
+body{
+  background-color:grey;
 }
 /* Bonus: change the color of your list elements */
  
